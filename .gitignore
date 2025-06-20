@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules/
+
+# Tailwind generated files (optional, if you want to build them again on deploy)
+output.css
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
